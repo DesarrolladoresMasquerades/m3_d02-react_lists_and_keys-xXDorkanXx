@@ -8,10 +8,10 @@ import MovieList from "./components/MovieList";
 function App() {
   return (
     <div className="App">
-      {/* <List /> */}
+      {/* <MovieList /> */}
       {/* <StudentList /> */}
-      {/* <ProjectList /> */}
-      <MovieList />
+      {/* <List /> */}
+      <ProjectList />
     </div>
   );
 }
